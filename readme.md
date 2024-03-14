@@ -2,7 +2,7 @@ Hai sentito parlare di variabile ed algoritmo in informatica e vuoi capire cosa 
 
 Devi traslocare e per portare le tue cose nella nuova casa le metti in un cartone e sopra ci scrivi cosa contiene. Quindi magari avrai un cartone con sopra scritto “bicchieri” dove all'interno metterai i calici, un altro cartone che contiene le posate e sopra ci scrivi “posate”, etc... 
 Beh ecco, il cartone è il contenitore, la variabile appunto, il nome sul cartone è il nome della variabile che ne identifica il contenuto e nel cartone avrai quello che ci hai inserito, ossia il contenuto della variabile. In JavaScript puoi dichiararla e valorizzarla scrivendo :
- let posate = “forchette, coltelli e cucchiai”;
+                    let posate = “forchette, coltelli e cucchiai”;
 > let : indichi che stai per dichiarare una variabile;
 > posate : indichi il nome della tua variabile;
 > = indichi che stai valorizzando la tua variabile;
